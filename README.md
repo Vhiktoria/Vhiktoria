@@ -10,18 +10,17 @@
 - [Introduction to Cybersecurity](https://www.credly.com/badges/13fa6aad-9172-4e0d-94ba-811e7272d5eb/linked_in_profile)
 - [Cybersecurity Essentials](https://www.credly.com/badges/d9231dd9-213f-4690-acf1-79a5d3ec7dbb/linked_in_profile)
 - [Cyber Threat Management](https://www.credly.com/badges/5134546c-6f42-41ea-acce-a4973c3aa82b/linked_in_profile)
-- [Cloud Security](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Network Defense](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-- [Endpoint Security](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Women Techsters Fellowship](https://drive.google.com/file/d/1n9fwxm3vNDOrSJWzYERcmNz_PTywsCkp/view?usp=drive_link)
+- [Introduction to IT & Cybersecurity](https://drive.google.com/file/d/1J5b6G6L9rKj9OZS_Fu4pCb98feBR5xq0/view?usp=drive_link)
+- [Technical Support Fundamentals](https://drive.google.com/file/d/1rrvGaO3aQQ50_MuSDEBfYnGdHXi8oxyS/view?usp=drive_link)
+  
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://x.com/Kiki_Vhiktoria?t=SunQ4tEKMrpl41YbJo5Y3Q&s=09
-[linkedin]: https://linkedin.com/in/victoria-onyemaechi
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Cyberr_Witch?t=BYIpV00C4LBAYr0fercWdw&s=09)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-onyemaechi)
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
