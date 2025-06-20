@@ -1,8 +1,9 @@
 <h1>Hi, I'm Victoria Onyemaechi! 
 <a href="https://www.linkedin.com/in/victoria-onyemaechi/">Aspiring Data Analyst
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
+  - [Creditworthiness Prediction Using Machine Learning](https://github.com/Vhiktoria/Vhiktoria/blob/main/Group%20A%20-%20Creditworthiness%20Prediction%20Using%20Machine%20Learning%20Capstone%20Project.pptx)
   - [Linux Project](https://docs.google.com/document/d/1m5ozUxRYfWdlc8WQzwyB8JcuG46RgbRM/edit?usp=drivesdk&ouid=)
 
 <h2>📑 Certifications</h2>
