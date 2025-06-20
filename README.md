@@ -1,5 +1,5 @@
 <h1>Hi, I'm Victoria Onyemaechi! 
-<a href="https://www.linkedin.com/in/victoria-onyemaechi/">Cybersecurity Enthusiast
+<a href="https://www.linkedin.com/in/victoria-onyemaechi/">Aspiring Data Analyst
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
