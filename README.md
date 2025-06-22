@@ -1,5 +1,7 @@
 <h1>Hi, I'm Victoria Onyemaechi! 
-<a href="https://www.linkedin.com/in/victoria-onyemaechi/">Aspiring Data Analyst
+<a href="https://www.linkedin.com/in/victoria-onyemaechi/">Aspiring Data Analyst</h1>
+
+I enjoy turning raw data into clear, useful insights. I'm passionate about solving real-world problems using data, and I'm open to internship or entry-level roles in data analysis.
 
 <h2>👨‍💻 Projects:</h2>
 
@@ -8,7 +10,7 @@
   - [Customer Retention Analysis](https://github.com/Vhiktoria/Customer-Retention-Analysis)
   - [Linux Project](https://docs.google.com/document/d/1m5ozUxRYfWdlc8WQzwyB8JcuG46RgbRM/edit?usp=drivesdk&ouid=)
 
-<h2>📑 Certifications</h2>
+<h2>📑 Certifications:</h2>
 
 - [Introduction to Cybersecurity](https://www.credly.com/badges/13fa6aad-9172-4e0d-94ba-811e7272d5eb/linked_in_profile)
 - [Cybersecurity Essentials](https://www.credly.com/badges/d9231dd9-213f-4690-acf1-79a5d3ec7dbb/linked_in_profile)
@@ -22,8 +24,8 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Cyberr_Witch?t=BYIpV00C4LBAYr0fercWdw&s=09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-onyemaechi)
 
-Open to Data Analysis Internships and Entry-level roles.
-Let's work together to turn data into insight!
+
+Open to internships, freelance, and junior roles in data analysis and insights
 <!--
 
 
