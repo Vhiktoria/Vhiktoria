@@ -3,7 +3,9 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Creditworthiness Prediction Using Machine Learning](https://github.com/Vhiktoria/Vhiktoria/blob/main/Group%20A%20-%20Creditworthiness%20Prediction%20Using%20Machine%20Learning%20Capstone%20Project.pptx)
+  - [Sales Performance Dashboard](https://github.com/Vhiktoria/Sales-Performance-Dashbaord)
+  - [Creditworthiness Prediction Using Machine Learning](https://github.com/Vhiktoria/Creditworthiness-Prediction-Using-Machine-Learning)
+  - [Customer Retention Analysis](https://github.com/Vhiktoria/Customer-Retention-Analysis)
   - [Linux Project](https://docs.google.com/document/d/1m5ozUxRYfWdlc8WQzwyB8JcuG46RgbRM/edit?usp=drivesdk&ouid=)
 
 <h2>📑 Certifications</h2>
@@ -20,6 +22,8 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Cyberr_Witch?t=BYIpV00C4LBAYr0fercWdw&s=09)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-onyemaechi)
 
+Open to Data Analysis Internships and Entry-level roles.
+Let's work together to turn data into insight!
 <!--
 
 
