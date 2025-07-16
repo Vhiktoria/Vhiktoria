@@ -5,7 +5,7 @@ I enjoy turning raw data into clear, useful insights. I'm passionate about solvi
 
 <h2>👨‍💻 Projects:</h2>
 
-  - [Deloitte Data Analytis Internship](https://github.com/Vhiktoria/Deloitte-Data-Analytics-Internship)
+  - [Deloitte Data Analytis Internship](https://github.com/Vhiktoria/Deloitte-Data-Analytics-Internship-)
   - [Sales Performance Dashboard](https://github.com/Vhiktoria/Sales-Performance-Dashbaord)
   - [Creditworthiness Prediction Using Machine Learning](https://github.com/Vhiktoria/Creditworthiness-Prediction-Using-Machine-Learning)
   - [Customer Retention Analysis](https://github.com/Vhiktoria/Customer-Retention-Analysis)
