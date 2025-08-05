@@ -5,6 +5,8 @@ I enjoy turning raw data into clear, useful insights. I'm passionate about solvi
 
 <h2>👨‍💻 Projects:</h2>
 
+  - [Markethive Sales Dashboard](https://github.com/Vhiktoria/MarketHive-Sales-Dashboard)
+  - [Adidas Sales Dashboard](https://github.com/Vhiktoria/Adidas-Sales-Dashboard)
   - [Deloitte Data Analytics Internship](https://github.com/Vhiktoria/Deloitte-Data-Analytics-Internship-)
   - [Sales Performance Dashboard](https://github.com/Vhiktoria/Sales-Performance-Dashbaord)
   - [Creditworthiness Prediction Using Machine Learning](https://github.com/Vhiktoria/Creditworthiness-Prediction-Using-Machine-Learning)
