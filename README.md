@@ -1,5 +1,5 @@
 <h1>Hi, I'm Victoria Onyemaechi! 
-<a href="https://www.linkedin.com/in/victoria-onyemaechi/">Aspiring Data Analyst</h1>
+<a href="https://www.linkedin.com/in/victoria-onyemaechi/">Data Analyst</h1>
 
 I enjoy turning raw data into clear, useful insights. I'm passionate about solving real-world problems using data, and I'm open to internship or entry-level roles in data analysis.
 
