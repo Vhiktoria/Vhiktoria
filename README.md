@@ -5,6 +5,7 @@ I enjoy turning raw data into clear, useful insights. I'm passionate about solvi
 
 <h2>👨‍💻 Projects:</h2>
 
+  - [Spending Habits of Young Adults in Nigeria](https://github.com/Vhiktoria/Vhiktoria-Spending-Habits-of-Young-Adults-in-Nigeria)
   - [Markethive Sales Dashboard](https://github.com/Vhiktoria/MarketHive-Sales-Dashboard)
   - [Adidas Sales Dashboard](https://github.com/Vhiktoria/Adidas-Sales-Dashboard)
   - [Deloitte Data Analytics Internship](https://github.com/Vhiktoria/Deloitte-Data-Analytics-Internship-)
