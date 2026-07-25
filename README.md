@@ -5,6 +5,7 @@ I enjoy turning raw data into clear, useful insights. I'm passionate about solvi
 
 <h2>👨‍💻 Projects:</h2>
 
+  - [Supermarket Sales Performance Dashboard](https://github.com/Vhiktoria/Supermarket-Sales-Performance-Analysis)
   - [Spending Habits of Young Adults in Nigeria](https://github.com/Vhiktoria/Vhiktoria-Spending-Habits-of-Young-Adults-in-Nigeria)
   - [Markethive Sales Dashboard](https://github.com/Vhiktoria/MarketHive-Sales-Dashboard)
   - [Adidas Sales Dashboard](https://github.com/Vhiktoria/Adidas-Sales-Dashboard)
@@ -29,7 +30,7 @@ I enjoy turning raw data into clear, useful insights. I'm passionate about solvi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victoria-onyemaechi)
 
 
-Open to internships, freelance, and junior roles in data analysis and insights
+Open to internships, freelance, and junior roles in data analysis.
 <!--
 
 
